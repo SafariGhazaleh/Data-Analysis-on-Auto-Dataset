@@ -1,4 +1,6 @@
 # Data-Analysis-on-Auto-Dataset
+The following assignment script is part of the coursework completed in the lecture "Model building in supervised learning" at TU Chemnitz.
+
 ## Data Analysis on Auto Dataset
 
 ### Introduction
